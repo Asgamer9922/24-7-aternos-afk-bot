@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "lasmp-g5B7.aternos.me
-",
+    "ip": "lasmp-g5B7.aternos.me",
     "port": 51080,
     "version": "1.20.1",
     "try-creative": false
